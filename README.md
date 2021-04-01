@@ -8,8 +8,8 @@ Age = "15"
 Country = "🇮🇳"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@Swami_2_0_0_5-30302f?style=for-the-badge&logo=telegram)](https://t.me/legendx22)
-[![mailid badge](https://img.shields.io/badge/LEGENDX-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
+[![telegram badge](https://img.shields.io/badge/@Swami_2_0_0_5-30302f?style=for-the-badge&logo=telegram)](https://t.me/Swami_2_0_0_5)
+[![mailid badge](https://img.shields.io/badge/Swami-30302f?style=for-the-badge&logo=gmail)](mailto:contact@swamiyeola5@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legendxop&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
 - 😄I'm Still Learning Git & GitHub
