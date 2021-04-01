@@ -2,13 +2,13 @@
 
 ### About 🙋🏻‍♂️
 ```python
-Name = "LEGEND X"
+Name = "Swami"
 who_i_am = ['Coding = ❣️']
 Age = "15"
 Country = "🇮🇳"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@LEGENDX22-30302f?style=for-the-badge&logo=telegram)](https://t.me/legendx22)
+[![telegram badge](https://img.shields.io/badge/@Swami_2_0_0_5-30302f?style=for-the-badge&logo=telegram)](https://t.me/legendx22)
 [![mailid badge](https://img.shields.io/badge/LEGENDX-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legendxop&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
@@ -17,7 +17,7 @@ Country = "🇮🇳"
 - ⚜️Most Of My Repositories Are For Telegram
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
-
+y
 ![LEGENDX Git Stats](https://github-readme-stats.vercel.app/api?username=legendxop&include_all_commits=true&count_private=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendxop&layout=compact&theme=radical)](https://github.com/legendxop)
